@@ -1,4 +1,5 @@
-a {font-size: 50px}
-p {font-size: 50px}
-h3 {font-size: 70px}
+a,p {font-size: 50px}
+h3 {font-size: 75px;text-align: center;color:#FFFFFF}
 h2 {font-size: 60px}
+body {background-color: #DCDCDC}
+#Powered {font-size:10px}
